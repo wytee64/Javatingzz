@@ -7,7 +7,7 @@ public class ageTing {
         int age = scanner.nextInt();
 
         if (age == 100) {
-            System.out.println("You are a centary old!!!");
+            System.out.println("You are a centary old!");
         }
         else if (age > 100 && age < 200) {
             int calc = age - 100;
